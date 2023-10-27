@@ -28,7 +28,7 @@ app.use(
     store: store,
     cookie:{
       secure: false
-  })
+  }})
 );
 
 app.use("/users", users);
