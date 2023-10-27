@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "tuyetanh14102023",
+    "MONGO_PASS": "PDqQAHKRoaGJfjSk",
+    "CLIENT_APP": "http://localhost:3000"
+  }
+}
